@@ -55,8 +55,6 @@ The project follows a complete analytics workflow including SQL data extraction,
 
 **Tools**
 - Jupyter Notebook
-- Git
-- GitHub
 
 ---
 
