@@ -118,7 +118,7 @@ Business Insights & Recommendations
 ## How to Run
 
 ```bash
-git clone https://github.com/yourname/E-Commerce-Marketing-Funnel-Analytics.git
+git clone https://github.com/jiajialiang32-ui/E-Commerce-Marketing-Funnel-Analytics.git
 
 cd E-Commerce-Marketing-Funnel-Analytics
 
